@@ -1,6 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
+
 <h1 align="center">Hi 👋, I'm Hemant Singh</h1>
 <h3 align="center">A passionate Full-stack developer proficient in React, Node.js, and MongoDB. Experienced in building scalable web applications and RESTful APIs.</h3>
 <img alt="img" align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1200/1*wdlBFEkqhytIuOjSNgz9iA.gif">
