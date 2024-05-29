@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honeyaps&label=Profile%20views&color=0e75b6&style=flat" alt="honeyaps" /> </p>
 
-- 🔭 I’m currently working on **Working on an exciting project using React.js, enhancing user experience and interactivity.**
+- 🔭 I’m currently working on **exciting project using React.js, enhancing user experience and interactivity.**
 
 - 🌱 I’m currently learning **React.js for front-end development and Node.js for back-end integration.**
 
