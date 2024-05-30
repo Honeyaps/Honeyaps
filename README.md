@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **honeyaps12345@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1MhEsdbBXqG7Km2QmBx_loAu7qGgWYtxU/view?usp=drivesdk](https://drive.google.com/file/d/1MhEsdbBXqG7Km2QmBx_loAu7qGgWYtxU/view?usp=drivesdk)">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1MhEsdbBXqG7Km2QmBx_loAu7qGgWYtxU/view?usp=drivesdk">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
