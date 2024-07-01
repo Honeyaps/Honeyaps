@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemant Singh</h1>
 <h3 align="center">A passionate Full-stack developer proficient in React, Node.js, and MongoDB. Experienced in building scalable web applications and RESTful APIs.</h3>
+<img align="right" alt="languages gif" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
 - 🔭 I’m currently working on **an exciting project using Angular, enhancing user experience and interactivity.**
 
