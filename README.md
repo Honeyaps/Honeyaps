@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **an exciting project using Angular, enhancing user experience and interactivity.**
 
-- 🌱 I’m currently learning **Angular.js for front-end development and Node.js for back-end integration.**
+- 🌱 I’m currently learning **React.js for front-end development and Node.js for back-end integration.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Honeyaps](https://github.com/Honeyaps)
 
