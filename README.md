@@ -1,39 +1,6 @@
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Static gradient, same as original — no motion/animation -->
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#667eea" />
-      <stop offset="100%" stop-color="#764ba2" />
-    </linearGradient>
-
-    <clipPath id="rounded">
-      <rect x="0" y="0" width="1200" height="220" rx="55" ry="55" />
-    </clipPath>
-
-    <clipPath id="typeClip">
-      <rect x="430" y="130" width="0" height="55">
-        <animate attributeName="width" from="0" to="340" dur="2.2s" begin="0.4s"
-                 fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;340" />
-      </rect>
-    </clipPath>
-  </defs>
-
-  <g clip-path="url(#rounded)">
-    <rect x="0" y="0" width="1200" height="220" fill="url(#grad)" />
-  </g>
-
-  <!-- Name: static, no animation -->
-  <text x="600" y="105" text-anchor="middle" font-family="Poppins, Verdana, sans-serif"
-        font-size="66" font-weight="700" fill="#ffffff">Hemant Singh</text>
-
-  <!-- Role: types out smoothly once on load, then stays put (no repeat) -->
-  <g clip-path="url(#typeClip)">
-    <text x="430" y="168" text-anchor="start" font-family="Poppins, Verdana, sans-serif"
-          font-size="32" font-weight="600" fill="#f1ecffcc">Software Developer</text>
-  </g>
-</svg>
+<!-- HEADER — custom SVG (embedded inline as base64): static gradient, static name, one-time typing role text -->
 <p align="center">
-  <img width="100%" src="./header.svg" alt="Hemant Singh" />
+  <img width="100%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIyMjAiIHZpZXdCb3g9IjAgMCAxMjAwIDIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDwhLS0gU3RhdGljIGdyYWRpZW50LCBzYW1lIGFzIG9yaWdpbmFsIOKAlCBubyBtb3Rpb24vYW5pbWF0aW9uIC0tPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzY2N2VlYSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjNzY0YmEyIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KCiAgICA8Y2xpcFBhdGggaWQ9InJvdW5kZWQiPgogICAgICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyMjAiIHJ4PSI1NSIgcnk9IjU1IiAvPgogICAgPC9jbGlwUGF0aD4KCiAgICA8Y2xpcFBhdGggaWQ9InR5cGVDbGlwIj4KICAgICAgPHJlY3QgeD0iNDMwIiB5PSIxMzAiIHdpZHRoPSIwIiBoZWlnaHQ9IjU1Ij4KICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJ3aWR0aCIgZnJvbT0iMCIgdG89IjM0MCIgZHVyPSIyLjJzIiBiZWdpbj0iMC40cyIKICAgICAgICAgICAgICAgICBmaWxsPSJmcmVlemUiIGNhbGNNb2RlPSJzcGxpbmUiIGtleVNwbGluZXM9IjAuMjUgMC4xIDAuMjUgMSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIwOzM0MCIgLz4KICAgICAgPC9yZWN0PgogICAgPC9jbGlwUGF0aD4KICA8L2RlZnM+CgogIDxnIGNsaXAtcGF0aD0idXJsKCNyb3VuZGVkKSI+CiAgICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyMjAiIGZpbGw9InVybCgjZ3JhZCkiIC8+CiAgPC9nPgoKICA8IS0tIE5hbWU6IHN0YXRpYywgbm8gYW5pbWF0aW9uIC0tPgogIDx0ZXh0IHg9IjYwMCIgeT0iMTA1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iUG9wcGlucywgVmVyZGFuYSwgc2Fucy1zZXJpZiIKICAgICAgICBmb250LXNpemU9IjY2IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmZmZmIj5IZW1hbnQgU2luZ2g8L3RleHQ+CgogIDwhLS0gUm9sZTogdHlwZXMgb3V0IHNtb290aGx5IG9uY2Ugb24gbG9hZCwgdGhlbiBzdGF5cyBwdXQgKG5vIHJlcGVhdCkgLS0+CiAgPGcgY2xpcC1wYXRoPSJ1cmwoI3R5cGVDbGlwKSI+CiAgICA8dGV4dCB4PSI0MzAiIHk9IjE2OCIgdGV4dC1hbmNob3I9InN0YXJ0IiBmb250LWZhbWlseT0iUG9wcGlucywgVmVyZGFuYSwgc2Fucy1zZXJpZiIKICAgICAgICAgIGZvbnQtc2l6ZT0iMzIiIGZvbnQtd2VpZ2h0PSI2MDAiIGZpbGw9IiNmMWVjZmZjYyI+U29mdHdhcmUgRGV2ZWxvcGVyPC90ZXh0PgogIDwvZz4KPC9zdmc+Cg==" alt="Hemant Singh" />
 </p>
 
 <br />
