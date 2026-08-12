@@ -1,11 +1,6 @@
-<!-- HEADER — purple aurora, rounded, animated -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=200&section=header&text=Hemant%20Singh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&fontAlign=50&reversal=true" />
-
-<!-- TYPING SVG — types out roles -->
+<!-- HEADER — custom SVG: static gradient, static name, one-time typing role text -->
 <p align="center">
-  <a href="https://github.com/Honeyaps">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&repeat=true&width=435&lines=Software+Developer;Full+Stack+Web+Developer;React+%26+Node.js+Developer" alt="Typing SVG" />
-  </a>
+  <img width="100%" src="./header.svg" alt="Hemant Singh" />
 </p>
 
 <br />
@@ -54,11 +49,13 @@ const hemant = {
     <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,git,docker&theme=dark" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,nginx,postman,vscode&theme=dark" />
@@ -71,20 +68,4 @@ const hemant = {
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Honeyaps&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B35&currStreakLabel=38BDF8" />
-</p>
-
-<br />
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hemant-singh-b69a14291" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  <a href="mailto:honeyaps12345@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Honeyaps" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
-  </a>
 </p>
