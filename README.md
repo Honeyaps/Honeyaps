@@ -5,6 +5,21 @@
 
 <br />
 
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+### ⚡ What I'm Up To
+
+- 🔭 &nbsp; Working on an **exciting project using React.js, Next.js** — enhancing UX & interactivity
+- 🌱 &nbsp; Deep diving into **React.js** for frontend & **Node.js** for backend
+- 🏗️ &nbsp; Building **RESTful APIs** and **scalable microservices**
+- 🎯 &nbsp; 2026 Goal: **Contribute to Open Source** & build products people love
+- 📫 &nbsp; Reach me at **[honeyaps12345@gmail.com](mailto:honeyaps12345@gmail.com)**
+- 📄 &nbsp; Check out my [**Resume**](https://drive.google.com/file/d/1pXTrhg3VGEf9rdR0POqWQGXzHd-zM0tM/view)
+- ⚡ &nbsp; Fun Fact: *I think I'm funny... my compiler disagrees* 😂
+
+<br clear="both" />
+<br />
+
 ## 👨‍💻 About Me
 
 ```js
@@ -27,39 +42,18 @@ const hemant = {
 
 <br />
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
-### ⚡ What I'm Up To
-
-- 🔭 &nbsp; Working on an **exciting project using React.js, Next.js** — enhancing UX & interactivity
-- 🌱 &nbsp; Deep diving into **React.js** for frontend & **Node.js** for backend
-- 🏗️ &nbsp; Building **RESTful APIs** and **scalable microservices**
-- 🎯 &nbsp; 2026 Goal: **Contribute to Open Source** & build products people love
-- 📫 &nbsp; Reach me at **[honeyaps12345@gmail.com](mailto:honeyaps12345@gmail.com)**
-- 📄 &nbsp; Check out my [**Resume**](https://drive.google.com/file/d/1pXTrhg3VGEf9rdR0POqWQGXzHd-zM0tM/view)
-- ⚡ &nbsp; Fun Fact: *I think I'm funny... my compiler disagrees* 😂
-
-<br clear="both" />
-<br />
-
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,git,docker&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,git,docker&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nginx,postman,vscode&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,nginx,postman,vscode&theme=dark" />
 </p>
 
 <br />
