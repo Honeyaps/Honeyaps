@@ -2,10 +2,10 @@
 <!--              🚀 HEMANT SINGH — GITHUB PROFILE README              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d47a1&height=220&section=header&text=Hemant%20Singh&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Web%2C%20One%20Commit%20at%20a%20Time&descSize=18&descAlignY=55&descAlign=50" />
+<!-- DARK HACKER HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF41,50:0d1117,100:00FF41&height=200&text=while(alive)%20%7B%20code()%3B%20%7D&fontSize=40&fontColor=00FF41&animation=twinkling&fontAlignY=45&desc=%E2%9A%A1%20Hemant%20Singh%20%E2%80%94%20Full%20Stack%20Developer&descSize=16&descAlignY=70&descAlign=50&fontAlign=50" />
 
-<!-- SOCIAL LINKS BAR — right below header -->
+<!-- SOCIAL LINKS BAR -->
 <p align="center">
   <a href="https://www.linkedin.com/in/hemant-singh-b69a14291" target="_blank">
     <img src="https://img.shields.io/badge/-Hemant%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -97,7 +97,6 @@ const hemant = {
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -112,26 +111,7 @@ const hemant = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Honeyaps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honeyaps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" />
-</p>
-
-<p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Honeyaps&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B35&currStreakLabel=38BDF8" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Honeyaps&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FF6B35&area=true&area_color=38BDF8&hide_border=true" />
-</p>
-
----
-
-<!-- ═══════════════════════════ TROPHIES ══════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Honeyaps&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
 </p>
 
 ---
@@ -141,11 +121,5 @@ const hemant = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
-
-<p align="center">
-  <b>⭐ Star my repos if you find them useful! Let's build together. 🚀</b>
-</p>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1a1b27,100:0d1117&height=120&section=footer" />
+<!-- DARK HACKER FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF41,50:0d1117,100:00FF41&height=150&section=footer" />
