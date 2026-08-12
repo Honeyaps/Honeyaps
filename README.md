@@ -1,6 +1,6 @@
 <!-- HEADER — custom SVG file: static gradient, static name, one-time typing role text -->
 <p align="center">
-  <img width="100%" src="./header.svg" alt="Hemant Singh" />
+  <img width="100%" src="./header.svg?v=2" alt="Hemant Singh" />
 </p>
 
 <br />
