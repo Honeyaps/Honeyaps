@@ -28,7 +28,7 @@
 
   <!-- Role: types out smoothly once on load, then stays put (no repeat) -->
   <g clip-path="url(#typeClip)">
-    <text x="430" y="168" text-anchor="start" font-family="Poppins, Verdana, sans-serif"
+    <text x="480" y="168" text-anchor="start" font-family="Poppins, Verdana, sans-serif"
           font-size="32" font-weight="600" fill="#f1ecffcc">Webdeveloper</text>
   </g>
 </svg>
