@@ -2,8 +2,8 @@
 <!--              🚀 HEMANT SINGH — GITHUB PROFILE README              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- DARK HACKER HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF41,50:0d1117,100:00FF41&height=200&text=while(alive)%20%7B%20code()%3B%20%7D&fontSize=40&fontColor=00FF41&animation=twinkling&fontAlignY=45&desc=%E2%9A%A1%20Hemant%20Singh%20%E2%80%94%20Full%20Stack%20Developer&descSize=16&descAlignY=70&descAlign=50&fontAlign=50" />
+<!-- SMOOTH GRADIENT HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=%3C%20Hemant%20Singh%20%2F%3E&fontSize=65&fontColor=e0e0ff&animation=fadeIn&fontAlignY=38&desc=git%20commit%20-m%20%22building%20scalable%20web%20apps%22&descSize=16&descAlignY=58&descAlign=50" />
 
 <!-- SOCIAL LINKS BAR -->
 <p align="center">
@@ -116,10 +116,5 @@ const hemant = {
 
 ---
 
-<!-- RANDOM DEV QUOTE -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<!-- DARK HACKER FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF41,50:0d1117,100:00FF41&height=150&section=footer" />
+<!-- SMOOTH GRADIENT FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
