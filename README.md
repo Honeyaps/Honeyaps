@@ -1,9 +1,16 @@
-<!-- HEADER — purple aurora, rounded -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=200&section=header&text=Hemant%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=18&descAlignY=62&descAlign=50&fontAlign=50" />
+<!-- HEADER — purple aurora, rounded, animated -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=200&section=header&text=Hemant%20Singh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&fontAlign=50&reversal=true" />
+
+<!-- TYPING SVG — types out roles -->
+<p align="center">
+  <a href="https://github.com/Honeyaps">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&repeat=true&width=435&lines=Software+Developer;Full+Stack+Web+Developer;React+%26+Node.js+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 <br />
 
-## `> whoami_` 🧑‍💻
+## 👨‍💻 About Me
 
 ```js
 const hemant = {
@@ -74,21 +81,10 @@ const hemant = {
   <a href="https://www.linkedin.com/in/hemant-singh-b69a14291" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:honeyaps12345@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Honeyaps" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1pXTrhg3VGEf9rdR0POqWQGXzHd-zM0tM/view" target="_blank">
-    <img src="https://img.shields.io/badge/-Resume-764ba2?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
 </p>
-
-<br />
-
-<!-- FOOTER — matching purple aurora, rounded -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:764ba2,100:667eea&height=120&section=footer" />
