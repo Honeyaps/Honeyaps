@@ -1,5 +1,5 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hemant%20Singh&fontSize=70&fontColor=e0e0ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&descAlign=50" />
+<!-- HEADER — purple aurora gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Hemant%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&descAlign=50&fontAlign=50" />
 
 ---
 
@@ -24,8 +24,6 @@ const hemant = {
 ```
 
 <br />
-
-<!-- WHAT I'M UP TO -->
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
@@ -99,5 +97,5 @@ const hemant = {
   </a>
 </p>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<!-- FOOTER — matching purple aurora gradient (reversed) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
