@@ -1,40 +1,7 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--              🚀 HEMANT SINGH — GITHUB PROFILE README              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!-- SMOOTH GRADIENT HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=%3C%20Hemant%20Singh%20%2F%3E&fontSize=65&fontColor=e0e0ff&animation=fadeIn&fontAlignY=38&desc=git%20commit%20-m%20%22building%20scalable%20web%20apps%22&descSize=16&descAlignY=58&descAlign=50" />
-
-<!-- SOCIAL LINKS BAR -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/hemant-singh-b69a14291" target="_blank">
-    <img src="https://img.shields.io/badge/-Hemant%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:honeyaps12345@gmail.com">
-    <img src="https://img.shields.io/badge/-honeyaps12345@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Honeyaps" target="_blank">
-    <img src="https://img.shields.io/badge/-Honeyaps-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1pXTrhg3VGEf9rdR0POqWQGXzHd-zM0tM/view" target="_blank">
-    <img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Honeyaps?tab=followers">
-    <img src="https://img.shields.io/github/followers/Honeyaps?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Honeyaps&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hemant%20Singh&fontSize=70&fontColor=e0e0ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&descAlign=50" />
 
 ---
-
-<!-- ═══════════════════════════ ABOUT ME ══════════════════════════════ -->
 
 ## `> whoami_` 🧑‍💻
 
@@ -58,7 +25,7 @@ const hemant = {
 
 <br />
 
-<!-- ═══════════════════════════ WHAT I'M UP TO ════════════════════════ -->
+<!-- WHAT I'M UP TO -->
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
@@ -75,8 +42,6 @@ const hemant = {
 <br clear="both" />
 
 ---
-
-<!-- ═══════════════════════════ TECH STACK ════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -106,8 +71,6 @@ const hemant = {
 
 ---
 
-<!-- ═══════════════════════════ GITHUB STATS ══════════════════════════ -->
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -116,5 +79,25 @@ const hemant = {
 
 ---
 
-<!-- SMOOTH GRADIENT FOOTER -->
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemant-singh-b69a14291" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:honeyaps12345@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Honeyaps" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1pXTrhg3VGEf9rdR0POqWQGXzHd-zM0tM/view" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
+<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
